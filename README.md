@@ -11,6 +11,7 @@ Hey there! I'm **Prajwal N**, a passionate and curious BCA student. I enjoy buil
 - Python Flask for backend development
 - SQLite3 database integration
 - Git & GitHub for version control
+- Machine Learning
 
 🔍 Exploring:
 - Frontend frameworks (Bootstrap, React basics)
