@@ -50,7 +50,6 @@ Hey there! I'm **Prajwal N**, a passionate and curious BCA student. I enjoy buil
 - 🎮 **Snake Game** – A fun project built using JavaScript
 - 💼 **Portfolio Website** – Showcasing my resume, projects & skills
 - 📊 **Student Portal** – Built using Python Flask + SQLite3
-- 📷 **ShareWeb** – Mini Instagram-style web app
 - 🚆 **Train Simulator UI** – UI prototype with animation design
 
 ---
