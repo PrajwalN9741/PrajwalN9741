@@ -52,19 +52,26 @@ Passionate about building real-world applications, exploring modern technologies
 
 ## 🚀 Featured Projects
 
-### 🎓 Student Portal Management System
+### 🎓 Student Performance Prediction Using Machine Learning
 
-* Flask + SQLite3 based web application
-* Admin & Student Login
-* Student Record Management
-* Secure Authentication System
+* Developed a machine learning model to predict student academic performance.
+* Performed data preprocessing, analysis, and visualization using Python.
+* Utilized libraries such as Pandas, NumPy, and Scikit-learn.
+* Generated predictions based on attendance, marks, and other academic factors.
 
-### 📱 ShareWeb (Instagram Clone)
+### 🏫 College Website
 
-* User Registration & Login
-* Create Posts & Social Interactions
-* Modern Responsive UI
-* Flask Backend
+* Designed and developed a responsive college website.
+* Implemented modern UI using HTML, CSS, JavaScript, and Bootstrap.
+* Included pages for courses, departments, admissions, events, and contact information.
+* Optimized for desktop and mobile devices.
+
+### 🎉 Event Management System
+
+* Built a web-based event management application using Python Flask and SQLite3.
+* Features include event creation, registration, participant management, and event tracking.
+* Admin dashboard for managing events and users.
+* Secure login and database integration.
 
 ### 💼 Portfolio Website
 
@@ -72,18 +79,6 @@ Passionate about building real-world applications, exploring modern technologies
 * Responsive Design
 * Project Showcase
 * Contact Integration
-
-### 🎮 Snake Game
-
-* JavaScript-based browser game
-* Score Tracking
-* Responsive Controls
-
-### 🖥️ Linux Automation Scripts
-
-* Bash Scripting
-* Task Automation
-* System Monitoring Utilities
 
 ---
 
